@@ -9,3 +9,17 @@
 h1 {
     color: #363d47;
 }
+
+.card {
+    border-radius: 1rem;
+}
+
+.card-img-top {
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.card-footer {
+    border-bottom-left-radius: 1rem!important;
+    border-bottom-right-radius: 1rem!important;
+}
